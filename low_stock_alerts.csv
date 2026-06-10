@@ -1,0 +1,3 @@
+Product_ID,Product_Name,Current_Stock,Reorder_Level,Warehouse,Inventory_Status
+P101,Mango Mint Syrup,51,100,Bangalore,Low Stock
+P102,Vanilla Syrup,6,80,Bangalore,Low Stock
