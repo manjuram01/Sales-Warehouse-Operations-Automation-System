@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Current_Stock,Reorder_Level,Warehouse,Inventory_Status
+P101,Mango Mint Syrup,51,100,Bangalore,Low Stock
+P102,Vanilla Syrup,6,80,Bangalore,Low Stock
+P103,Hazelnut Syrup,0,70,Hyderabad,Out of Stock
+P104,Blue Curacao,0,60,Chennai,Out of Stock
+P105,Grenadine,0,75,Bangalore,Out of Stock
+P106,Rose Syrup,0,50,Hyderabad,Out of Stock
+P107,Caramel Syrup,0,60,Mumbai,Out of Stock
+P108,Lemon Ginger Syrup,0,90,Chennai,Out of Stock
+P109,Chocolate Syrup,0,70,Pune,Out of Stock
+P110,Strawberry Crush,0,80,Delhi,Out of Stock

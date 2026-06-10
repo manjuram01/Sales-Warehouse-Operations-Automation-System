@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Unit_Price,Supplier
+P101,Mango Mint Syrup,Fruit Syrup,350,FreshBlend
+P102,Vanilla Syrup,Coffee Syrup,420,BeanCraft
+P103,Hazelnut Syrup,Coffee Syrup,450,BeanCraft
+P104,Blue Curacao,Mocktail Mixer,500,AquaTaste
+P105,Grenadine,Mocktail Mixer,380,AquaTaste
+P106,Rose Syrup,Traditional Syrup,300,Heritage Foods
+P107,Caramel Syrup,Coffee Syrup,460,BeanCraft
+P108,Lemon Ginger Syrup,Wellness Syrup,390,FreshBlend
+P109,Chocolate Syrup,Dessert Syrup,480,SweetNest
+P110,Strawberry Crush,Fruit Syrup,360,FarmFresh

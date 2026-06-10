@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Current_Stock,Reorder_Level,Warehouse
+P101,Mango Mint Syrup,250,100,Bangalore
+P102,Vanilla Syrup,180,80,Bangalore
+P103,Hazelnut Syrup,140,70,Hyderabad
+P104,Blue Curacao,90,60,Chennai
+P105,Grenadine,160,75,Bangalore
+P106,Rose Syrup,120,50,Hyderabad
+P107,Caramel Syrup,110,60,Mumbai
+P108,Lemon Ginger Syrup,200,90,Chennai
+P109,Chocolate Syrup,130,70,Pune
+P110,Strawberry Crush,170,80,Delhi
